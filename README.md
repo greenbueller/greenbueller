@@ -15,7 +15,6 @@ My name is Nick, I use They/He pronouns, and I am an amateur programming student
   <body>
     <ul>
       <li> <a href="https://github.com/hoi4-modding-den">HOI4 Den</a>
-      <li> <a href="https://turtle.greenbueller.com">Tulpe Turtle Hunt</a>
     </ul>
   </body>
 </html>
@@ -25,8 +24,6 @@ My name is Nick, I use They/He pronouns, and I am an amateur programming student
 <ol>
   <li>I am an Eagle Scout.</li>
   <li>I play the trumpet</li>
-  <li>I have staffed National Youth Leadership Training for multiple years</li>
-  <li>I have acted for numerous years</li>
 </ol>
 
 ## :computer: How to reach me? ##
