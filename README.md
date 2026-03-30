@@ -3,11 +3,7 @@
 
 ## :ledger: Overview ##
 
-> ### "Hello There"
-> General Kenobi
-<br>
-
-My name is Nick, I use They/He pronouns, and I am an amateur programming student from Massachusetts. I have a variety of repositories across my github, feel free to ask about them.
+Hello! My name is Nick, I use They/He pronouns, and I am an amateur programming student from Massachusetts. I have a variety of repositories across my github, feel free to ask about them.
 
 ## :clipboard: Projects ##
 
@@ -28,7 +24,11 @@ My name is Nick, I use They/He pronouns, and I am an amateur programming student
 
 ## :computer: How to reach me? ##
 
-Please reach out to me on my discord, @greenbueller. If I am unreachable there, let me know.
+You can contact me via the following:
+<ul>
+  <li> <a href="mailto:greenbueller@greenbueller.com">Email</li>
+  <li> Discord: @greenbueller</li>
+</ul>
 
 ## :warning: Found an issue? ##
 
